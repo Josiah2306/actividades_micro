@@ -1,0 +1,21 @@
+{
+    "usuarios": [
+      {
+        "nombre": "Juan Pérez",
+        "correo": "juanperez@email.com"
+      }
+    ],
+    "productos": [
+      {
+        "nombre": "Laptop",
+        "precio": 899.99,
+        "stock": 5
+      },
+      {
+        "nombre": "Audífonos",
+        "precio": 59.99,
+        "stock": 20
+      }
+    ]
+  }
+  
